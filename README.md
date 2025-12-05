@@ -100,14 +100,3 @@ npm run deploy
 ```
 
 Generated files automatically publish to the `gh-pages` branch.
-
----
-
-## 📌 Future Improvements (optional)
-
-* Quality selector (HLS variants)
-* Chapters / markers
-* Keyboard shortcuts
-* Light theme toggle
-
----
