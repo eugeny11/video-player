@@ -8,11 +8,11 @@ function App() {
 
 const playlist = [
     {
-        title: "Sintel Animation",
-        src: "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+        title: "Animation 1",
+        src: "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8",
     },
     {
-        title: "Sintel Animation",
+        title: "Animation 2",
         src: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     },
     
